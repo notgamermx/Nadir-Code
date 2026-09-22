@@ -11,4 +11,7 @@ yarn-error.log*
 # Environment & OS
 .DS_Store
 Thumbs.db
-*.tmp
+# Local Scripts
+push-to-github.ps1
+push-to-github.bat
+
