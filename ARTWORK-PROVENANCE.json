@@ -1,0 +1,42 @@
+[
+  {
+    "file": "28560.jpg",
+    "date": "1889",
+    "hotspot": {
+      "label": "green window",
+      "y": 0.147,
+      "x": 0.313
+    },
+    "metadata": "https://api.artic.edu/api/v1/artworks/28560",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/5/50/Vincent_van_Gogh_-_The_Bedroom_-_1926.417_-_Art_Institute_of_Chicago.jpg",
+    "museum": "Art Institute of Chicago",
+    "facts": [
+      "This is the second of three versions, painted in September 1889.",
+      "It depicts his bedroom in the Yellow House at Arles."
+    ],
+    "artist": "Vincent van Gogh",
+    "title": "The Bedroom",
+    "public_domain": true,
+    "source": "https://www.artic.edu/artworks/28560/the-bedroom"
+  },
+  {
+    "file": "27992.jpg",
+    "date": "1884–86, border added 1888–89",
+    "hotspot": {
+      "label": "monkey on leash",
+      "y": 0.849,
+      "x": 0.739
+    },
+    "metadata": "https://api.artic.edu/api/v1/artworks/27992",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/0/03/Georges_Seurat_-_Un_dimanche_apr%C3%A8s-midi_%C3%A0_l%27%C3%AEle_de_la_Grande_Jatte.jpg",
+    "museum": "Art Institute of Chicago",
+    "facts": [
+      "The monkey on a leash was added when Seurat returned to the work two years after its start.",
+      "The scene depicts people beside the River Seine."
+    ],
+    "artist": "Georges Seurat",
+    "title": "A Sunday on La Grande Jatte — 1884",
+    "public_domain": true,
+    "source": "https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884"
+  }
+]

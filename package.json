@@ -1,0 +1,25 @@
+{
+  "name": "nadir-code",
+  "version": "1.0.0",
+  "description": "Nadir Code - An original, multidisciplinary puzzle hunt",
+  "main": "dist/index.html",
+  "type": "commonjs",
+  "scripts": {
+    "build": "node prepare-hard-edition.cjs",
+    "test": "node verify-puzzles.cjs",
+    "dev": "wrangler pages dev dist --port 8788",
+    "preview": "wrangler pages dev dist",
+    "deploy": "wrangler pages deploy dist"
+  },
+  "keywords": [
+    "puzzle-hunt",
+    "cloudflare-pages",
+    "cloudflare-workers",
+    "nadir-code"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

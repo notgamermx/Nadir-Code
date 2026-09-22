@@ -1,0 +1,3 @@
+# Cloudflare Pages Redirect Rules
+# Example: canonical redirect or clean paths
+/home    /    301

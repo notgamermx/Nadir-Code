@@ -1,0 +1,6 @@
+# Files to exclude from Cloudflare Pages deployment bundle
+SOLUTIONS.md
+painting-assets/
+hard-edition-answers.json
+.git/
+.openai/

@@ -1,0 +1,6 @@
+name = "nadir-code"
+compatibility_date = "2026-09-22"
+pages_build_output_dir = "dist"
+
+[site]
+bucket = "dist"
