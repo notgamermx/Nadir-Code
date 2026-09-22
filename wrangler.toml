@@ -1,3 +1,6 @@
 name = "nadir-code"
+main = "functions/api/health.js"
 compatibility_date = "2026-09-22"
-pages_build_output_dir = "dist"
+
+[assets]
+directory = "./dist"
