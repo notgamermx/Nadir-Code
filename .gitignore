@@ -14,4 +14,6 @@ Thumbs.db
 # Local Scripts
 push-to-github.ps1
 push-to-github.bat
+deploy-to-cloudflare.bat
+
 
